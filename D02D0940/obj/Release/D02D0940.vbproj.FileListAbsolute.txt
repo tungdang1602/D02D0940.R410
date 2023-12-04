@@ -1,0 +1,71 @@
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.vbprojResolveAssemblyReference.cache
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F1910.resources
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F0001.resources
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F0002.resources
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F9001.resources
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F5557.resources
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.Resources.resources
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.vbproj.GenerateResource.Cache
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.dll.licenses
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.dll
+E:\Code hỗ trợ\Anh Thoại\D02D0940.R400\D02D0940\obj\Release\D02D0940.xml
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.vbprojResolveAssemblyReference.cache
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F1910.resources
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F0001.resources
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F0002.resources
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F9001.resources
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F5557.resources
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.Resources.resources
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.vbproj.GenerateResource.Cache
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.dll.licenses
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.dll
+e:\LemonCode(4.00.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.xml
+C:\LEMON3\D02D0940.dll
+C:\LEMON3\D02D0940.xml
+C:\LEMON3_V41\D02D0940.dll
+C:\LEMON3_V41\D02D0940.xml
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.vbprojResolveAssemblyReference.cache
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F1910.resources
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F0001.resources
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F0002.resources
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F9001.resources
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.D02F5557.resources
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.Resources.resources
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.vbproj.GenerateResource.Cache
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.dll.licenses
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.dll
+e:\LemonCode(5.10.00)\D02\D02D0940.R400\D02D0940\obj\Release\D02D0940.xml
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.vbprojResolveAssemblyReference.cache
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F1910.resources
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F0001.resources
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F0002.resources
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F9001.resources
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F5557.resources
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.Resources.resources
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.vbproj.GenerateResource.Cache
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.dll.licenses
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.dll
+E:\LemonCode%285.10.00%29\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.xml
+C:\LEMON3\Exe R400\D02D0940.dll
+C:\LEMON3\Exe R400\D02D0940.xml
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F1910.resources
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F0001.resources
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F0002.resources
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F9001.resources
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F5557.resources
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.Resources.resources
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.vbproj.GenerateResource.Cache
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.dll.licenses
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.dll
+d:\GitLemonCode\LemonCode(4.10.00)\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.xml
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.vbprojResolveAssemblyReference.cache
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F1910.resources
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F0001.resources
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F0002.resources
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F9001.resources
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.D02F5557.resources
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.Resources.resources
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.vbproj.GenerateResource.Cache
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.dll.licenses
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.dll
+D:\GitLemonCode\LemonCodeV41\D02\D02D0940.R410\D02D0940\obj\Release\D02D0940.xml
